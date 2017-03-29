@@ -1,0 +1,93 @@
+body {
+    background-image: url("../bg1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#outer {
+    position: relative;
+    margin: 35px auto 0 auto;
+}
+
+
+#header {
+    position: relative;
+    padding: 35px;
+    height: 140px;
+    width: 910px;
+}
+
+#outer {
+    position: relative;
+    width: 980px;
+    margin: 35px auto 0 auto;
+}
+
+div {
+    display: block;
+}
+
+#logo {
+    text-align: center;
+    position: absolute;
+    width: 900px;
+    height: 110px;    
+}
+#logo h1 {
+    font-size: 60px;
+    font-family: "Papyrus", cursive;
+    font-weight: bold;
+    color: grey;
+}
+
+#nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 980px;
+    height: 70px;
+    line-height: 50px;
+    font-family: "Handwriting", cursive;
+   
+}
+
+#nav ul {
+    list-style: none;
+    width: 980px;
+    text-align: center;
+}
+#nav ul li {
+    display: inline;
+    text-align: center;
+    padding: 0 15px 0 15px;
+}
+
+.img {
+  
+    width: 300px;
+    height: 400px;
+    padding: 35px;
+
+    margin: 0 0 35px 0;
+}
+h2{
+    font-size: 2em;
+    font-family: "Papyrus", fantasy;
+    color: #e6e6e6
+}
+.ingredient{
+    padding-left: 30px;
+    text-align: left;
+    font-size: 1.2em;
+    color: #999999;
+    font-weight: bold;
+    font-family: "Calibri";
+}
+
+.method ol{
+    padding-left: 0px; 
+    text-align: justify;
+    font-size: 1.2em;
+    color: #999999;
+    margin-right: 20px;
+    font-family: "Calibri";
+}
