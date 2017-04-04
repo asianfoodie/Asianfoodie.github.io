@@ -1,5 +1,5 @@
 body {
-    background-image: url("../bg1.jpg");
+    background-image: url("../Food background.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -34,9 +34,9 @@ div {
 }
 #logo h1 {
     font-size: 60px;
-    font-family: "Papyrus", cursive;
+    font-family: "Calibri";
     font-weight: bold;
-    color: grey;
+    color: white;
 }
 
 #nav {
@@ -46,7 +46,7 @@ div {
     width: 980px;
     height: 70px;
     line-height: 50px;
-    font-family: "Handwriting", cursive;
+    font-family: "Calibri";
    
 }
 
@@ -71,15 +71,14 @@ div {
 }
 h2{
     font-size: 2em;
-    font-family: "Papyrus", fantasy;
+    font-family: "Calibri";
     color: #e6e6e6
 }
 .ingredient{
     padding-left: 30px;
     text-align: left;
     font-size: 1.2em;
-    color: #999999;
-    font-weight: bold;
+    color: #e6e6e6;
     font-family: "Calibri";
 }
 
@@ -87,7 +86,7 @@ h2{
     padding-left: 0px; 
     text-align: justify;
     font-size: 1.2em;
-    color: #999999;
+    color: #e6e6e6;
     margin-right: 20px;
     font-family: "Calibri";
 }

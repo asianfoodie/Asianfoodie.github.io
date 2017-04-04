@@ -72,10 +72,10 @@
     
     <ul id="maintitle">
       <button class="btn btn-lg" >
-      <li><a href="Asian%20Foodie.html">About</a></li>
-      <li><a href="#">Starters</a></li>
-      <li><a href="#">Main Courses</a></li>
-      <li><a href="#">Desserts</a></li>
+      <li><a href="Asian Foodie.html">Home</a></li>
+      <li><a href="list.html">Starters</a></li>
+      <li><a href="Mains">Main Courses</a></li>
+      <li><a href="Desserts">Desserts</a></li>
     </ul>  
     
     <h1>Starters</h1>
